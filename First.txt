@@ -1,0 +1,8 @@
+1)Drag and Drop the videos into media pool or ctrl+I => Import the media
+2)U can add the folders to favorates that u want regularly , by right clicking
+3)Bring all the videos , pics , audio u want to do the work with in media pool
+4)right click in master and select new bin and name videos, audio, images , make it separate folders
+5)go to each video or images and mark in = I , mark out =O , the length u want from the video just I and O 
+6)after marking I and O ,select all the marked videos and right click at once "Create New Timeline Using Selected Clips ..." => it creates timeline of all the video's into 1 video
+7)make another new bin in master named as Timelines and put the timeline inside that folder, both images and videos are possible 
+8)smooth transitiosn :- effects =>tool box => video translation => click on the transitoin u want , drag it , and drop in between the video clips 
